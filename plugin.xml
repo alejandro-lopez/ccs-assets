@@ -8,8 +8,8 @@
     <description>Sounds and graphic assets for Zeek Mi Auto</description>
     <license>MIT</license>
 
-    <repo>https://github.com/argust/zeekmiauto-plugin-assets</repo>
-    <issue>https://github.com/argust/zeekmiauto-plugin-assets/issues</issue>
+    <repo>https://github.com/alejandro-lopez/ccs-assets</repo>
+    <issue>https://github.com/alejandro-lopez/ccs-assets/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
